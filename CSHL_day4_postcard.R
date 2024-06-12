@@ -70,6 +70,6 @@ usethis::use_git()
 ## Connect your local Git repository with GitHub servers
 usethis::use_github()
 
-
+print("success")
 
 
